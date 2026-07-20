@@ -27,7 +27,7 @@ The application leverages interactive UI button components and asynchronous back
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/masterytx/Discord-ghost-msg-bot.git](https://github.com/masterytx/Discord-ghost-msg-bot.git)
+   git clone https://github.com/masterytx/Discord-ghost-msg-bot.git
    cd Discord-ghost-msg-bot
    
 2.  **Install the dependencies**
