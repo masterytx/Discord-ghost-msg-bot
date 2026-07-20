@@ -1,3 +1,10 @@
+
+    ________  ______  ___________    ____  ____  ______
+   / ____/ / / / __ \/ ___/_  __/   / __ )/ __ \/_  __/
+  / / __/ /_/ / / / /\__ \ / /_____/ __  / / / / / /
+ / /_/ / __  / /_/ /___/ // /_____/ /_/ / /_/ / / /
+\____/_/ /_/\____//____//_/     /_____/\____/ /_/
+
 # Discord User-Installable Ghost Message Bot
 
 A sleek, lightweight utility bot built with `discord.py` that utilizes Discord's User-Installable Application (User App) architecture. This application enables you to deploy a hidden, personal slash command (`/send`) that can be executed anywhere across the entire Discord ecosystem—including servers, Direct Messages, and Group DMs.
