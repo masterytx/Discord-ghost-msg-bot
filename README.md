@@ -1,6 +1,6 @@
 # Discord User-Installable Ghost Message Bot
 
-A sleek, lightweight utility bot built with `discord.py` that utilizes Discord's User-Installable Application (User App) architecture. This application enables you to deploy a hidden, personal slash command (`/spam`) that can be executed anywhere across the entire Discord ecosystem—including servers, Direct Messages, and Group DMs.
+A sleek, lightweight utility bot built with `discord.py` that utilizes Discord's User-Installable Application (User App) architecture. This application enables you to deploy a hidden, personal slash command (`/send`) that can be executed anywhere across the entire Discord ecosystem—including servers, Direct Messages, and Group DMs.
 
 The application leverages interactive UI button components and asynchronous background workers to safely and seamlessly dispatch messages across different communication channels.
 
